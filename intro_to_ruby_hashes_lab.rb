@@ -4,9 +4,6 @@ def base_hash
   }
 end
  
-  # Remember implicit return! We're returning this new Hash _without_ the
-  # keyword "return." Nice and neat.
-
 def monopoly_with_second_tier
   # When you start writing the implementation for this method, copy the Hash
   # you built in the previous method. Run the tests. They will fail, but
